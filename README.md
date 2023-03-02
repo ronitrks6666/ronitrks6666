@@ -36,3 +36,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitrks6666&show_icons=true&locale=en" alt="ronitrks6666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitrks6666&" alt="ronitrks6666" /></p>
+
+
+
+ <div align="left"><h2>📈 Github Stats</h2>
+
+Stats   | Languages
+--------| ----------
+![Ronit's Github Stats](https://github-readme-stats.vercel.app/api?username=ronitrks6666&show_icons=true&theme=vision-friendly-dark) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitrks6666&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+
+Graph | Contribution
+------| ----------
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronitrks6666&theme=monokai&text_color=white) | ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=ronitrks6666&theme=dark&width=400)
